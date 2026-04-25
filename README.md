@@ -190,6 +190,8 @@ Content-Type: application/json
 }
 ```
 
+<img width="1348" height="516" alt="Custom Web Scraping Engine High Performance Data Extraction Fast • Stable • Reliable" src="https://github.com/user-attachments/assets/e02b6ca5-f57a-45ac-951d-93a75205cfc5" />
+
 ---
 
 ## Python Client
@@ -234,10 +236,9 @@ NASA                           31.59.20.176
 Wikipedia                      23.26.71.145
 All products | Books to Scrape 23.26.71.145
 Quotes to Scrape               23.26.71.145
-<img width="1304" height="472" alt="Ajouter un sous-titre" src="https://github.com/user-attachments/assets/429c7fcc-88ea-4682-81f3-cde9632cf26a" />
-<img width="1348" height="516" alt="Custom Web Scraping Engine High Performance Data Extraction Fast • Stable • Reliable" src="https://github.com/user-attachments/assets/e02b6ca5-f57a-45ac-951d-93a75205cfc5" />
-
 ```
+
+<img width="1304" height="472" alt="Ajouter un sous-titre" src="https://github.com/user-attachments/assets/429c7fcc-88ea-4682-81f3-cde9632cf26a" />
 
 ---
 
@@ -271,9 +272,9 @@ Libraries:
 Protocol:         HTTP/2, TLS 1.3
 Fingerprinting:   JA4/JA3 via uTLS
 Output:           JSON, CSV, Excel
-<img width="1350" height="627" alt="Capture d’écran 2026-04-12 180031" src="https://github.com/user-attachments/assets/65187088-60e0-4024-b945-3dc136e96022" />
-
 ```
+
+<img width="1350" height="627" alt="Capture d'écran 2026-04-12 180031" src="https://github.com/user-attachments/assets/65187088-60e0-4024-b945-3dc136e96022" />
 
 ---
 
@@ -297,7 +298,7 @@ Built by **Adam El Outtassi** — Systems Engineer and Security Researcher from 
 | Platform | Link |
 |----------|------|
 | Fiverr | [fiverr.com/adam_c9](https://fiverr.com/adam_c9) |
-| Upwork | [upwork.com/freelancers/adamsec](https://www.upwork.com/freelancers/~01709ce34b086c899e?mp_source=share) |
+| Upwork | [upwork.com/freelancers](https://www.upwork.com/freelancers/~01709ce34b086c899e) |
 | HackerOne | [hackerone.com/adamsec-dev](https://hackerone.com/adamsec-dev) |
 | Twitter | [@AdamSecDev](https://x.com/AdamSecDev) |
 
