@@ -292,7 +292,7 @@ Built by **Adam El Outtassi** — Systems Engineer and Security Researcher from 
 | Platform | Link |
 |----------|------|
 | Fiverr | [fiverr.com/adam_c9](https://fiverr.com/adam_c9) |
-| Upwork | [upwork.com/freelancers]([https://www.upwork.com/freelancers/~adamsec](https://www.upwork.com/freelancers/~01709ce34b086c899e?mp_source=share)) |
+| Upwork | [upwork.com/freelancers/adamsec](https://www.upwork.com/freelancers/~01709ce34b086c899e?mp_source=share) |
 | HackerOne | [hackerone.com/adamsec-dev](https://hackerone.com/adamsec-dev) |
 | Twitter | [@AdamSecDev](https://x.com/AdamSecDev) |
 
