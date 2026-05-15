@@ -1,6 +1,6 @@
 # APEX Extraction Engine
 
-> High-performance web data extraction system built in Go — engineered for protected targets.
+> High-performance web data extraction system built in Go engineered for protected targets.
 
 ![Go](https://img.shields.io/badge/Go-1.22-00ADD8?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-stable-orange?style=flat&logo=rust)
@@ -12,7 +12,7 @@
 
 ## What This Is
 
-APEX is a production-grade data extraction engine designed to operate where standard scraping tools fail. Built from scratch in Go, it handles modern anti-bot protections at the **protocol level** — not by patching around them.
+APEX is a production-grade data extraction engine designed to operate where standard scraping tools fail. Built from scratch in Go, it handles modern anti-bot protections at the **protocol level** not by patching around them.
 
 Most scrapers fail because they look like bots at the TLS handshake layer, before a single byte of content is exchanged. APEX solves this at the root.
 
@@ -84,7 +84,7 @@ func (c *Classifier) Analyze(resp *http.Response) (AnalysisResult, error) {
 
 ### 2. Browser Fingerprint Engine
 
-Polymorphic identity system — each request carries a consistent, authentic browser signature:
+Polymorphic identity system each request carries a consistent, authentic browser signature:
 
 ```go
 type Profile struct {
@@ -111,7 +111,7 @@ func (m *Manager) GetRandomProfile() Profile {
 
 ### 3. Adaptive Retry Engine
 
-Exponential backoff with jitter — simulates human behavioral patterns:
+Exponential backoff with jitter simulates human behavioral patterns:
 
 ```go
 for attempt := 0; attempt < 3; attempt++ {
@@ -252,7 +252,7 @@ Quotes to Scrape               23.26.71.145
 | AWS App Firewall | L7 Rate Limiting | FastLane | 842ms | PASS |
 | Standard HTTP/2 | None | FastLane | 412ms | PASS |
 
-**Success rate: 95.8% – 99.4% on Tier-1 protected targets**
+**Success rate: 70% – 85% on Tier-1 protected targets**
 
 ---
 
@@ -293,7 +293,7 @@ All research is strictly defensive and conducted ethically.
 
 ## About
 
-Built by **Adam El Outtassi** — Systems Engineer and Security Researcher from Morocco.
+Built by **Adam El Outtassi** Systems Engineer and Security Researcher from Morocco.
 
 | Platform | Link |
 |----------|------|
